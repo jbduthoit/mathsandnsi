@@ -7,7 +7,7 @@ title: An Example Markdown Post
 ---
 # Example Markdown Post
 
-$$2^n$$
+$$2^n$$   m $2^n$  jj $'2^n'$  eeeee
 
 ## Basic setup
 
