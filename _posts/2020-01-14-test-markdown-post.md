@@ -11,7 +11,7 @@ $$2^n$$
 
 ## Basic setup
 
-Jekyll requires blog post files to be named according to the following format:
+Jekyll $2^n$ requires blog post files to be named according to the following format:
 
 `YEAR-MONTH-DAY-filename.md`
 
