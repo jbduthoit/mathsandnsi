@@ -7,6 +7,8 @@ title: An Example Markdown Post
 ---
 # Example Markdown Post
 
+$$2^n$$
+
 ## Basic setup
 
 Jekyll requires blog post files to be named according to the following format:
